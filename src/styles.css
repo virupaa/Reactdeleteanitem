@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+li {
+  margin: 2px;
+}
+
+li:nth-child(2n + 1) {
+  background-color: #f1f1f1;
+}
